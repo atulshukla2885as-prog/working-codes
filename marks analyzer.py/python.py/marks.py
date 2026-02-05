@@ -1,4 +1,4 @@
-anubahvname = input("Enter student name: ")
+name = input("Enter student name: ")
 
 marks1 = int(input("Enter marks in Subject 1: "))
 marks2 = int(input("Enter marks in Subject 2: "))
